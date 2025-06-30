@@ -141,6 +141,7 @@ footer {
 .timer-small {
   font-size: 20px;
   font-weight: 400;
+  font-variant-numeric: tabular-nums;
 }
 
 #confs {
