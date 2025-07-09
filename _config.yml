@@ -1,13 +1,13 @@
-title: ⏰ HCI Conference Deadlines
+title: ⏰ HCI Conference Deadlines for HHN
 description: Countdowns to top HCI conference deadlines
-author: Andrea Bianchi
+author: Ahmad Alismail
 
-domain: 'hci-deadlines.github.io'
+domain: 'hci-deadlines-hhn.github.io'
 baseurl: ''
 
 twitter_hashtag: hci-deadlines
 github_username: hci-deadlines
-github_repo_confdatabase: conf-database
+github_repo_confdatabase: conf-database-hhn
 
 markdown: kramdown
 ga_id:
